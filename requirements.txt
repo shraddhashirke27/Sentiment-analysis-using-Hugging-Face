@@ -1,7 +1,0 @@
-transformers
-requests
-beautifulsoup4
-pandas
-numpy
-torch
-re
